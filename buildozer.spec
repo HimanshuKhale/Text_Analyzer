@@ -4,7 +4,7 @@
 title = Text Analyzer
 
 # (str) Package name
-package.name = text_analyzer
+package.name = analyser
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
