@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-20.04
-        node-version:'16'
+        
 
     steps:
       - uses: actions/checkout@v1
