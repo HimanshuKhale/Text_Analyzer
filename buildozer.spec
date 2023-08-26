@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Text Analyzer
+title = Analyzer
 
 # (str) Package name
 package.name = analyser
@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3==3.7.6, hostpython=3.7.6,kivy, android, openssl, pyopenssl, httplib2, certifi, pillow
+requirements = python3==3.7.6, hostpython==3.7.6,kivy, android, openssl, pyopenssl, httplib2, certifi, pillow
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
